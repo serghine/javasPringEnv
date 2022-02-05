@@ -18,7 +18,7 @@ public class HelloWordApplication implements CommandLineRunner {
 		
 		
 
-		System.out.println("hello word");
+		System.out.println("hello");
 	}
 	
 	
