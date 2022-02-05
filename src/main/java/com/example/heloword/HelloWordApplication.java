@@ -18,12 +18,9 @@ public class HelloWordApplication implements CommandLineRunner {
 		
 		
 
-		System.out.println(somme(1,4));
+		System.out.println("hello word");
 	}
-	public int somme(int a, int b) {
-	int c=a  +b;
-	return c;
-		}
+	
 	
 		
 	
