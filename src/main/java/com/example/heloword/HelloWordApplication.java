@@ -14,7 +14,18 @@ public class HelloWordApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		
-		System.out.println("hello word");
+		
+		
+		
+
+		System.out.println(somme(1,4));
 	}
+	public int somme(int a, int b) {
+	int c=a  +b;
+	return c;
+		}
+	
+		
+	
 
 }
